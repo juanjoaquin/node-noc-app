@@ -1,0 +1,21 @@
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-08-23T22:18:50.436Z"} 
+ {"message":"TypeError: fetch failed","level":"high","createdAt":"2024-08-23T22:24:25.040Z"} 
+ {"message":"TypeError: fetch failed","level":"high","createdAt":"2024-08-23T22:24:30.008Z"} 
+ {"message":"TypeError: fetch failed","level":"high","createdAt":"2024-08-23T22:24:35.004Z"} 
+ {"message":"TypeError: fetch failed","level":"high","createdAt":"2024-08-23T22:24:40.004Z"} 
+ {"message":"TypeError: fetch failed","level":"high","createdAt":"2024-08-23T22:24:45.006Z"} 
+ {"message":"TypeError: fetch failed","level":"high","createdAt":"2024-08-23T22:24:50.006Z"} 
+ {"message":"TypeError: fetch failed","level":"high","createdAt":"2024-08-23T22:24:55.006Z"} 
+ {"message":"TypeError: fetch failed","level":"high","createdAt":"2024-08-23T22:25:00.006Z"} 
+ {"message":"TypeError: fetch failed","level":"high","createdAt":"2024-08-23T22:25:05.005Z"} 
+ {"message":"TypeError: fetch failed","level":"high","createdAt":"2024-08-23T22:25:10.007Z"} 
+ {"message":"TypeError: fetch failed","level":"high","createdAt":"2024-08-23T22:25:15.007Z"} 
+ {"message":"TypeError: fetch failed","level":"high","createdAt":"2024-08-23T22:25:20.007Z"} 
+ {"message":"TypeError: fetch failed","level":"high","createdAt":"2024-08-23T22:25:25.006Z"} 
+ {"message":"TypeError: fetch failed","level":"high","createdAt":"2024-08-23T22:25:30.007Z"} 
+ {"message":"TypeError: fetch failed","level":"high","createdAt":"2024-08-23T22:25:35.005Z"} 
+ {"message":"TypeError: fetch failed","level":"high","createdAt":"2024-08-23T22:25:40.006Z"} 
+ {"message":"TypeError: fetch failed","level":"high","createdAt":"2024-08-23T22:25:45.006Z"} 
+ {"message":"TypeError: fetch failed","level":"high","createdAt":"2024-08-23T22:25:50.007Z"} 
+ {"message":"TypeError: fetch failed","level":"high","createdAt":"2024-08-23T22:25:55.004Z"} 
+ 
