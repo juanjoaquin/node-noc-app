@@ -17,4 +17,6 @@
  {"message":"TypeError: fetch failed","level":"high","createdAt":"2024-08-23T22:25:45.006Z"} 
  {"message":"TypeError: fetch failed","level":"high","createdAt":"2024-08-23T22:25:50.007Z"} 
  {"message":"TypeError: fetch failed","level":"high","createdAt":"2024-08-23T22:25:55.004Z"} 
+ {"message":"http://localhost:3000 is not ok. TypeError: fetch failed","level":"high","createdAt":"2024-08-24T15:59:20.036Z"} 
+ {"message":"http://localhost:3000 is not ok. TypeError: fetch failed","level":"high","createdAt":"2024-08-24T15:59:25.007Z"} 
  

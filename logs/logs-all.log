@@ -18,4 +18,16 @@
  {"message":"TypeError: fetch failed","level":"high","createdAt":"2024-08-23T22:25:45.006Z"} 
  {"message":"TypeError: fetch failed","level":"high","createdAt":"2024-08-23T22:25:50.007Z"} 
  {"message":"TypeError: fetch failed","level":"high","createdAt":"2024-08-23T22:25:55.004Z"} 
+ {"message":"http://localhost:3000 is not ok. TypeError: fetch failed","level":"high","createdAt":"2024-08-24T15:59:20.036Z"} 
+ {"message":"http://localhost:3000 is not ok. TypeError: fetch failed","level":"high","createdAt":"2024-08-24T15:59:25.007Z"} 
+ {"message":"Service http://google.com working","level":"low","createdAt":"2024-08-24T17:32:35.338Z","origin":"check-service.ts"} 
+ {"message":"Service http://google.com working","level":"low","createdAt":"2024-08-24T17:32:40.125Z","origin":"check-service.ts"} 
+ {"message":"Email sent","level":"low","createdAt":"2024-08-26T14:32:01.147Z","origin":"email.service.ts"} 
+ {"message":"Service http://google.com working","level":"low","createdAt":"2024-08-27T15:07:45.289Z","origin":"check-service.ts"} 
+ {"message":"Service http://google.com working","level":"low","createdAt":"2024-08-27T15:07:50.121Z","origin":"check-service.ts"} 
+ {"message":"Service http://google.com working","level":"low","createdAt":"2024-08-27T15:19:45.340Z","origin":"check-service.ts"} 
+ {"message":"Service http://google.com working","level":"low","createdAt":"2024-08-27T15:19:50.124Z","origin":"check-service.ts"} 
+ {"message":"Service http://google.com working","level":"low","createdAt":"2024-08-27T15:19:55.159Z","origin":"check-service.ts"} 
+ {"message":"Service http://google.com working","level":"low","createdAt":"2024-08-27T15:20:00.145Z","origin":"check-service.ts"} 
+ {"message":"Service http://google.com working","level":"low","createdAt":"2024-08-27T15:20:05.150Z","origin":"check-service.ts"} 
  
