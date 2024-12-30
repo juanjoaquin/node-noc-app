@@ -12,5 +12,4 @@
 
 Aplicación realizada con Node js y TypeScript, que su funcionalidad principal es monitorear una url, donde escribe y envía logs de manera automática en nuestra consola o a través del Gmail utilizando Nodemailer. Está misma es marcada a través de tres niveles de criticidad "low, medium y high". Uno brindá una URL para analizar (por ejemplo google.com) y si esta funciona, el nivel de criticidad será "low" ya que funcionaría correctamente. 
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="uJQTrQN"><a href="https://imgur.com/uJQTrQN">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+![Hola](https://i.imgur.com/uJQTrQN.png)
