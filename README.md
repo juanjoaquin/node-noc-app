@@ -25,3 +25,7 @@ Aplicación realizada con Node js y TypeScript, que su funcionalidad principal e
 ![log](https://imgur.com/pWtztcR.png)
 
 ![gmail](https://imgur.com/eJRxGh8.png)
+
+``Logs guardados en MongoDB``
+
+![MongoDB](https://imgur.com/01FfIOC.png)
