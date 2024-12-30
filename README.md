@@ -14,6 +14,8 @@ Aplicación realizada con Node js y TypeScript, que su funcionalidad principal e
 
 ``` La notificación en consola mientras la aplicación es ejecutada ```
 
-![Interfaz de la aplicación](https://i.imgur.com/zqErK1Y.png)
+![Notificacion](https://i.imgur.com/zqErK1Y.png)
 
-![Hola](https://i.imgur.com/uJQTrQN.png)
+``` Niveles de críticidad al fetchear la URL ```
+
+![Fetch](https://i.imgur.com/uJQTrQN.png)
