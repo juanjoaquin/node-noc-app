@@ -19,3 +19,7 @@ Aplicación realizada con Node js y TypeScript, que su funcionalidad principal e
 ``` Niveles de críticidad al fetchear la URL ```
 
 ![Fetch](https://i.imgur.com/uJQTrQN.png)
+
+``Notificación de los Logs en Gmail enviados a través de un archivo .txt``
+
+![gmail](https://imgur.com/eJRxGh8.png)
