@@ -20,6 +20,8 @@ Aplicación realizada con Node js y TypeScript, que su funcionalidad principal e
 
 ![Fetch](https://i.imgur.com/uJQTrQN.png)
 
-``Notificación de los Logs en Gmail enviados a través de un archivo .txt``
+``Notificación de los Logs en Gmail enviados a través de un archivo .log``
+
+![log](https://imgur.com/pWtztcR.png)
 
 ![gmail](https://imgur.com/eJRxGh8.png)
